@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">householder</string>
+    <string name="signin">접속</string>
 </resources>
